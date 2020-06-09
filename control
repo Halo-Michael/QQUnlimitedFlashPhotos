@@ -1,0 +1,9 @@
+Package: com.michael.qqunlimitedflashphotos
+Name: QQUnlimitedFlashPhotos
+Depends: mobilesubstrate
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Remove QQ flash photos restrictions.
+Maintainer: Halo_Michael <yc992147156@me.com>
+Author: Halo_Michael <yc992147156@me.com>
+Section: Tweaks
